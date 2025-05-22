@@ -1,1 +1,3 @@
 # Learning Python
+hacking
+typing
