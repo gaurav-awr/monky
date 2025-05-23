@@ -1,7 +1,7 @@
-name="gaurav"
-age="14"
-price="25.99"
-
-print("my name is:",name)
-print("my age is:",age)
-print("my price is:",price)
+name= (input("what is your name :"))
+if(name== "sakshi"):
+    print("hay" ,name)
+elif(name== "gaurav saini"):
+    print("hello",name)
+else:
+    print("bye",name)
